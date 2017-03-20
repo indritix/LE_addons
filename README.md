@@ -1,2 +1,2 @@
-# LE_9_pvr.zattoo_binary_addon
-RPi2 only!
+# LE_master_pvr.zattoo_binary_addon
+RPi2/3 only!
