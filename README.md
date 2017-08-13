@@ -1,2 +1,3 @@
-# LE_master_pvr.zattoo_binary_addon
+# pvr.zattoo compiled for LE (master)
+source: https://github.com/rbuehlma/pvr.zattoo
 RPi2/3 only!
