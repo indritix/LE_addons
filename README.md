@@ -3,5 +3,3 @@ source:
 
 https://github.com/rbuehlma/pvr.zattoo
 
-https://github.com/rbuehlma/inputstream.adaptive/tree/zattoo_dash_master 
-
